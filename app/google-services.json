@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551602624988",
+    "firebase_url": "https://noise-exposure-detection.firebaseio.com",
+    "project_id": "noise-exposure-detection",
+    "storage_bucket": "noise-exposure-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551602624988:android:8fb5d97c2100c019b09719",
+        "android_client_info": {
+          "package_name": "com.example.noiseexposuredetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551602624988-2325kv27vmi1hpbgnf45ro9jtsds9cdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noiseexposuredetection",
+            "certificate_hash": "6a3ba1844dcb871cff7d56531c640a31872d3aa5"
+          }
+        },
+        {
+          "client_id": "551602624988-trsmvdo77dhugedkdpun74bou1n9jl7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXu5PFCFP-CRkBsYxPdJlMykKWQLLY8xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551602624988-trsmvdo77dhugedkdpun74bou1n9jl7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
